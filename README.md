@@ -1,5 +1,5 @@
 # DROP Motion
-
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 15 01 48" src="https://github.com/user-attachments/assets/5beb761d-85c0-4103-996a-3b7790758c07" />
 # Overview
 
 This is an interactive desktop application that leverages **AI-powered hand gesture recognition** to enable intuitive, touchless drag-and-drop functionality. By tracking the user's **index** and **middle finger** movements using a webcam, the app detects a "pinch" gesture to initiate drag and a "release" to drop — simulating standard mouse interactions without physical contact.
